@@ -971,3 +971,4 @@ class NoirBudgetApp(tk.Tk):
 
 if __name__ == "__main__":
     NoirBudgetApp().mainloop()
+# auto-commit %%i 
